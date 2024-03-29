@@ -5,7 +5,7 @@ word_dict = {}
 word_list = []
 
 def make_word_dict(word_path, word_dict, word_list):
-    with open(word_path, 'r') as f:
+    with open(word_path, 'r',encoding='UTF-8') as f:
         for line in f:
             english = line.split(',')[0].strip()
             chinese = line.split(',')[1].strip()
@@ -13,7 +13,7 @@ def make_word_dict(word_path, word_dict, word_list):
             word_list.append(english)
 
 
-make_word_dict('./word_book/test_word_3-2', word_dict, word_list)
+make_word_dict('./word_book/test_word_3-3', word_dict, word_list)
 
 while len(word_list) > 0:
     print(word_dict[word_list[0]])
