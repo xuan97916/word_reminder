@@ -1,0 +1,68 @@
+language|n.|语言
+symbol|n.|象征；符号；记号||symbolise=symbolize v. 象征
+sign|n./v.|符号；征兆；迹象；手势；签（名）
+gesture|n.|手势；姿势
+handwriting|n.|笔记；书写
+pictograph|n.|象形文字
+wedge|n.|楔子；楔形物；楔形文字
+knot|n.|（绳、线的）结；（树枝上的）节子
+linguistics|n.|语言学
+semantic|adj.|语义的|There are two kinds of puns, phonetic pun and semantic pun. 双关语分为谐音双关语和语义双关语
+syntax|n.|句法
+grammar|n.|语法；语法书
+phonetics|n.|语音学||phonetic adj. 语音的
+pronounce|v.|发...的音；宣布||pronunciation n. 发音 pronounced adj. 显著的；表达明确的
+intonation|n.|语调|Some question are spoken with a rising intonation
+inflection|n.|语调的抑扬变化|She spoken in a low voice, always without inflection
+dialect|n.|方言；地方话
+accent|n.|重音；口音；读音符号
+utterance|n.|说话；言论|His every utterance will be scrutinized 他说的每句话都会被仔细审查|scrutinize=scrutinise v. 仔细查看、审查。scrutiny n. 仔细观察、审查
+oral|adj.|口头的|Students of English should have a lot of oral drills|drill n. 钻头，（尤指军事）练习 a spelling/pronunciation drill 拼写／发音练习
+verbal|adj.|口头的；言语的|Don't be afraid of verbal abuse or criticism.|nonverbal adj. 不用语言的
+syllable|n.|音节|The stress is on the last syllable.
+phoneme|n.|音位|In actual speech, a phoneme is realized phonetically as a certain phone
+vowel|n.|元音|Each language has a different vowel system
+consonant|n.|辅音|These are common consonant clusters at the beginning of words
+alphabet|n.|字母表；（一种语言的）全部字母
+logogram|n.|语标，缩记符（如& 、@等） ;非字母语言的字符|ACP is the logogram of English of the African, Caribbean and Pacific states
+vocabulary|n.|词汇
+dictionary|n.|词典；字典
+idiom|n.|习语
+phrase|n.|短语；习语
+clause|n.|从句；分句；条款
+expression|n.|词语；表达；表情
+tense|n./adj.|时态；紧张的
+root|n.|根；词根
+prefix|n.|前置代号；词首；前缀
+suffix|n.|后缀
+abbreviation|n.|缩写形式
+synonym|n.|同义词
+antonym|n.|反义词
+noun|n.|名词
+singular|n./adj.|单数；非凡的；单数的
+plural|n./adj.|复数；复数的；多元的
+pronoun|n.|代词
+verb|n.|动词
+adjective|n.|形容词
+adverb|n.|副词
+preposition|n.|介词
+conjunction|n.|连词
+consistent|adj.|一致的；（观点或看法）连贯的||inconsistent adj. 不一致的。consist v. 由...组成。be consistent with 与...一致
+complicated|adj.|复杂的||complicate v. 使复杂化
+complex|adj.|复杂的
+compile|v.|编撰
+version|n.|版本
+translate|v.|翻译；（使）转变
+paraphrase|v./n.|意译；改述
+interpret|v.|口译；解释；说明；领会；理解||interpretation n. 口译；解释。interpreter n. 口译员
+narrate|v.|讲（故事）；叙述
+illuminate|v.|阐释；说明；照亮
+decipher|v.|译解；辨认
+eloquence|n.|雄辩；流利的口才|The audience are struck by her simple, spellbinding eloquence|be struck by 被...所触动、打动。spellbinding adj. 引人入胜的。eloquent adj. 雄辩的；有口才的
+communicate|v.|沟通；交流；传达
+discussion|n.|讨论；谈论
+brainstorm|n./v.|集体自由讨论；头脑风暴；集思广益；进行头脑风暴
+debate|v./n.|辩论；争论；讨论||debatable adj. 有争议的。debate about/on/upon sth. 就某事进行讨论。have a debate with sb. 与某人进行辩论
+commentary|n.|评论；批评；实况报道
+negotiate|v.|协商；谈判|We are not about to negotiate with terrorists.|negotiation n. 协商；谈判。negotiate about 就...进行协商
+contention|n.|争论；争辩；观点|My contention is that the scheme will never work|content n. 内容
