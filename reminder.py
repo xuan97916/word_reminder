@@ -24,7 +24,6 @@ def make_word_dict_all(word_dir, word_dict, word_list):
 
 # make_word_dict('./word_book/test_word_3-7', word_dict, word_list)
 make_word_dict_all('./word_book', word_dict, word_list)
-
 while len(word_list) > 0:
     print(word_dict[word_list[0]])
     answer = input('your answer: ')
