@@ -6,7 +6,7 @@ with open('./100_sentence/100sentences.json','r',encoding='utf-8') as f:
 # prepare sentence list
 sentence_list = []
 
-for item in sentence[2:]:
+for item in sentence:
     if "sentence" in item.keys():
         sentence_list.append(item)
 
