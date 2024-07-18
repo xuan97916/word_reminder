@@ -40,7 +40,7 @@ def play_audio(audio_path,stop_signal):
 #     playsound(audio_path)
 
 def word_input_and_check(word_list, english, stop_signal):
-    answer = input('your answer: ')
+    answer = input('Your answer: ')
     if answer == english:
         print('correct! You have ' + str(len(word_list) - 1) + ' words left.')
         word_list.pop(0)

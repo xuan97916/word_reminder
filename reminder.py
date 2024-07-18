@@ -26,7 +26,7 @@ def make_word_dict_all(word_dir, word_dict, word_list):
 make_word_dict_all('./word_book', word_dict, word_list)
 while len(word_list) > 0:
     print(word_dict[word_list[0]])
-    answer = input('your answer: ')
+    answer = input('Your answer: ')
     if answer == word_list[0]:
         print('correct! You have ' + str(len(word_list) - 1) + ' words left.')
         word_list.pop(0)
