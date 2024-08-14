@@ -2,7 +2,6 @@ photosynthesis|n.|光合作用
 respire|v.|呼吸||相比于 breathe 更正式，但是 breath 更常用
 dioxide|n.|二氧化物
 vegetation|n.|植物；草木|There is not much vegetation in deserts|vegetable n. 蔬菜 vegetarian n. 素食者
-herb|n.|药草；香草
 perennial|n./adj.|多年生植物；长期的；持久的|These perennials should be planted where they can naturalize
 botany|n.|植物学
 ecology|n.|生态学；生态
@@ -24,7 +23,6 @@ cultivate|v.|耕作；培养|The farmer is cultivating his land|cultivate the ha
 sow|v.|播种
 harvest|v./n.|收割；收获；收成|A good summer harvest is not easy to come by|at the harvest
 pluck|v.|采；摘|The pluck a rose for his lover
-pick|v.|拾；摘
 yield|v./n.|产出；屈服；服从；产量；投资收益|This land yields well|yielding adj. 易弯曲的；顺从的。unyielding adj. 坚硬的；不屈不挠的
 rear|v./n.|培养；抚养；饲养；后部|Most farmer in this area rear sheep
 arable|adj.|适合耕种的|This area changed quickly from arable land to desert
@@ -46,13 +44,11 @@ germinate|v.|发芽|Warmth is needed for the seeds to germinate
 seed|n.|种子|The farmers were scattering seeds over the fields|seedling n. 秧苗；幼苗。sow seeds 播种
 burgeon|n./v.|嫩枝；新芽/极速生长；发芽；抽枝
 bud|n.|芽；苞；蓓蕾|The rose are in bud|break out into bud 发芽。buddy=bud 老兄
-flower|n./v.|花；开花植物/成熟；繁荣；开花
 blossom|v./n.|开花；花朵|The tree was covered with beautiful pink blossom|可以用于比喻，表示某事物或概念的发展、兴盛或繁荣。
 bloom|n.|花朵|The apple trees are out of bloom
 scent|n./v.|气味；香味；使具有香味|The flower scents the air
 aromatic|adj.|芳香的|Aromatic plants are often used in cooking
 ripen|v.|使成熟|The sun ripens the corn|ripe adj. 熟的。ripener n. 催熟剂。Is this fruit ripe? 这个果子熟了么？
-fruit|v.|结果实|The apple trees fruited early this year
 wither|v.|（使）枯萎|The grapes withered on the vine|withered adj. 凋谢了的；枯萎的
 decompose|v.|分解；腐烂|You can apply heat to decompose organic compounds 你可以加热来分解有机化合物
 rot|v./n.|使腐烂；使腐坏；腐烂
@@ -65,19 +61,15 @@ field|n.|原野；场地；野外
 terrace|n.|梯田
 timber|n.|木材；木料；林木
 charcoal|n.|木炭
-log|n.|原木；日志
-logo|n.|标识；徽标
 forestry|n.|林学；林业
 branch|n.|树枝；分支机构；分店
 trunk|n.|树干；躯干；大箱子
 bough|n.|大树枝|The window of his car was broken by a bough during last night's storm
-root|n./v.|根；使生根||root cause 根本原因
 hay|n.|干草|Make hay with sun shines|hit the hay 上床睡觉
 straw|n.|稻草；麦秆；吸管|This hat is made of straw
 reed|n.|芦苇|The roof is made of dried reed
 thorn|n.|刺；荆棘|She got her finger pricked by a thorn|thorny adj. 多刺的；棘手的；a thorn in my side/flesh 眼中钉、肉中刺
 weed|n.|杂草
-grass|n.|草；草地
 meadow|n.|草地；牧草
 lawn|n.|草地；草坪|My mother asked me to mow the lawn
 olive|n.|橄榄；橄榄树|The olive branch is the emblem of peace. 橄榄枝是和平的象征
@@ -115,8 +107,6 @@ undermine|v.|破坏；逐渐削弱
 extinction|n.|灭绝||extinct adj. 已灭绝的
 pattern|n.|模式；样式；底样
 outcome|n.|结果|We are anxiously awaiting the outcome of their discussion
-impact|n.|影响
-seasonal|adj.|季节性的
 experimental|adj.|实验性的
 favourable/favorable|adj.|有利的；赞成的；肯定的
 productive|adj.|多产的

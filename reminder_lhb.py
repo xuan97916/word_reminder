@@ -6,7 +6,7 @@ import concurrent.futures
 
 
 # load word book
-book_name = '01_自然地理.txt'
+book_name = '03_动物保护.txt'
 book_path = os.path.join('./vocabulary_lhb','word_part',book_name)
 
 # load word audio

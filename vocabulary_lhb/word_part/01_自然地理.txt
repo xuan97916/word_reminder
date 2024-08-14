@@ -5,7 +5,6 @@ oxygen|n.|氧气
 oxide|n.|氧化物
 carbon dioxide|n.|二氧化碳
 hydrogen|n.|氢气
-core|n.|中心；核心；地核
 crust|n.|地壳；外壳|The crust on the snow was thick enough for to walk on it
 mantle|n./v.|地幔；斗篷；披风；覆盖|Parents often use mantles for their babies to keep warm
 longitude|n.|经度
@@ -20,7 +19,6 @@ endanger|v.|使遭受危险；危及|If you are work hard without reset, you wil
 jeopardise/jeopardize|v.|危害；危及|If you are rude to the boss, your chances of success may be jeopardised|jeopardise sb.'s life 危及某人生命
 destructive|adj.|破坏性的；有害的|Jealousy is an extremely destructive emotion
 El Nino|n.|厄尔尼诺现象
-greenhouse|n.|温室；暖房
 phenomenon|n.|现象|Snow is an almost unknown phenomenon in Egypt|复数形式：phenomena；a natural phenomenon 自然现象；a social phenomenon 社会现象
 pebble|n.|鹅卵石
 magnet|n.|磁铁；吸铁石|He picked all the pins up with a magnet|magnetic adj./词的，有磁性的；有吸引力的
@@ -51,13 +49,10 @@ earthquake|n.|地震
 seismic|adj.|地震的；地震引起的
 avalanche|n.|雪崩
 terrain|n.|地形
-landscape|n./v.|风景；地貌；对...进行景观美化
 continent|n.|大陆；洲
-cave|n.|洞穴；山洞
 cliff|n.|悬崖；峭壁
 glacier|n.|冰川；冰河
 swamp|n.|沼泽；湿地
-delta|n.|三角洲
 plain|n./adj.|平原；简朴的；明白的
 plateau|n.|高原
 oasis|n.|绿洲；宜人之地
@@ -81,7 +76,6 @@ ocean|n.|海洋；洋|These creatures live in the depth of the Pacific Ocean|an 
 marine|adj./n.|海洋的；海生的；海事的/水兵|It is true that a lot of people like marine plants as their food|a marine product 海产品；船用品
 navigation|n.|航海；航行|Navigation is a game for brave people|navigator n. 航海家；领航员
 gulf|n.|海湾
-beach|n.|海滩；河滩
 coast|n.|海岸；海滨
 shore|n.|（海、湖等大水域的）岸；滨|His ship pulled in to the shore at midnight
 tide|n.|趋势；潮流；潮汐|The gravitational attraction between the moon and the earth causes tides|tidal adj. 潮汐的。at low tide 退潮时，低潮时。Time and tide wait for no man 岁月不等人
@@ -116,7 +110,6 @@ arid|adj.|干燥的；干旱的；枯燥的
 moist|adj.|潮湿的；湿润的
 damp|adj.|湿气重的；潮湿的
 humid|adj.|潮湿的；湿热的
-snowy|adj.|下雪多的；被雪覆盖的
 frost|n.|霜；霜冻；严寒
 hail|n./v.|冰雹/赞扬；招呼；下冰雹
 thaw|v./n.|解冻；融解；融化/解冻时期|The sun thawed the ice and melted the snow|thaw sth./out 使...解冻；使...变暖
@@ -131,7 +124,6 @@ stormy|adj.|有暴风雨的；争吵激烈的；（大海）波涛汹涌的
 downpour|n.|倾盆大雨
 rainfall|n.|降雨量
 sprinkle|v./n.|撒；下小雨/少量；小雨|We've only had a few sprinkles of rain recently|sprinkle sth. on sth. 把某物撒到某物上
-rainbow|n.|彩虹
 shower|n.|阵；阵雨；淋浴|The weatherman predicts showers this afternoon
 Celsius|adj./n.|摄氏的/摄氏温度||Farhrenheit adj./n. 华氏的/华氏温度
 temperature|n.|气温；体温；温度||take sb.'s temperature 给...量体温
@@ -144,13 +136,6 @@ ridge|n./v.|山脊；山脉/使隆起
 slope|v./n.|倾斜；有坡度；山坡；斜坡
 valley|n.|山谷；溪谷
 hillside|n.|小山的山腰；山坡
-overlook|v.|远眺；俯瞰；未注意到|The house on the hill overlooks the village|be easily overlook 容易被忽略的
-southern|adj.|南方的
-southeast|n./adj.
-southwest|n./adj.
-northeast|n./adj.
-northwest|n./adj.
-eastern|adj.
 oriental|adj.|东方的（尤其指中日）|She has studied the cultures of oriental countries
 inevitable|adj.|必然的；不可避免的|Such a difficult operation may not succeed, but it's an inevitable gamble|evitable adj. 可避免的
 irreversible|adj.|不可逆转的；不可挽回的
@@ -180,11 +165,9 @@ fringe|n./adj.|边缘；刘海/非主要的；次要的|We feel it's pretty good
 plate|n.|板块；盘
 debris|n.|碎片；残骸
 crack|v./n.|破裂；发出爆裂声/裂缝；缝隙|The door opened just a crack|cause a crack 弄出裂缝
-gap|n.|缺口；裂缝；差距；空白
 splendid|adj.|极好的；壮观的|You're all doing a splendid job; keep up the good work|a splendid chance极好的机会
 grand|adj.|宏大的；豪华的；宏伟的；极好的
 magnificent|adj.|壮丽的；宏伟的；令人印象深刻的
-super|adj.
 interesting|adj.
 dramatic|adj.|戏剧的；引人入胜的
 wilderness|n.|荒野|From his attic window, he looked out over a beautiful wildernes|wild adj. 野生的；荒芜的。 attic 阁楼；顶楼

@@ -42,12 +42,10 @@ hatch|v./n.|孵化
 brood|n./v.|一窝幼鸟；孵（蛋）|The bird was trying to find food for its brood
 spawn|n./v.|（鱼、蛙的）卵；产卵；引起
 mature|adj./v.|成熟的；成熟|You are a mature man now, you are no longer a boy|immature adj. 不成熟的，未完全发育的
-skin|n.|皮肤
 claw|n./v.|爪；钳；鳌；爪状物/抓；挠；撕
 paw|n.|（动物的）脚掌；爪子
 beak|n.|鸟嘴；喙
 fin|n.|鳍
-wing|n.|翅膀
 plume|n.|羽毛
 feather|n.|羽毛||"plume" 更强调装饰性和华丽，而 "feather" 则更通用，用于描述鸟类的普通羽毛
 fur|n.|软毛；毛皮
@@ -62,21 +60,16 @@ butterfly|n.|蝴蝶
 mosquito|n.|蚊子
 cricket|n.|蟋蟀
 penguin|n.|企鹅
-seal|n./v.|海豹；封条；图章；密封|Polar bears set off in search of their favorite meal-seals
 tortoise|n.|龟；陆龟
 turtle|n.|海龟
 whale|n./v.|鲸；捕鲸
 kangaroo|n.|袋鼠
 camel|n.|骆驼
-panda|n.|熊猫
 elephant|n.|大象
 trunk|n.|象鼻||这个词和植物研究那个树干是一个词
 ivory|n.|象牙|The professor lived in an ivory tower
 horn|n.|（牛羊等动物的）角；（乐器的）号
-bear|n.|熊
-wolf|n.|狼
 dragon|n.|龙；悍妇|Dragons are describes as monsters in most western countries
-fox|n.|狐狸🦊；狡猾的人
 cub|n.|幼兽|The cub licked the milk from its mother's breast
 calf|n.|幼兽；小牛🐂|Did you see the cow with her calf
 pup|n.|幼小动物|I'll get you an Alsatian pup for Christmas|puppy n. 幼犬。Alsatian n. 阿尔萨斯狼狗，德国牧羊犬（同 German shepherd）
@@ -85,7 +78,6 @@ cattle|n.|牛
 ox|n.|（阉割的）公牛||复数形式 oxen
 bull|n.|公牛|He was a great bull of a man
 buffalo|n.|水牛；野牛
-horse|n.|马🐴
 zebra|n.|斑马🦓
 donkey|n.|驴子
 saddle|n.|鞍；马鞍；车座|He was putting a saddle on the horse|get into the saddle 上马
@@ -118,7 +110,6 @@ habitat|n.|栖息地
 nest|n.|巢；窝；穴
 hive|n./v.|蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居
 cell|n.|蜂房巢室；细胞；单人牢房
-cage|n.|笼子
 stable|n./adj.|马厩；牛棚；稳定的
 barn|n.|谷仓；牲口棚
 hedge|n.|树篱；障碍物|There is a opening in the hedge|on the hedge 抱骑墙态度的
@@ -126,8 +117,6 @@ barrier|n.|障碍
 bar|n.|栅；栏杆；条；长块
 anatomy|n.|解剖学
 epidemic|n./adj.|流行病；（坏事的）盛行；流行性的；极为盛行的
-gene|n.|基因
-germ|n.|微生物；细菌
 bacteria|n.|细菌；bacterium 的复数形式
 virus|n.|病毒
 microbe|n.|微生物
@@ -161,7 +150,6 @@ undergo|v.|经历；经受
 suffer|v.|遭受；受折磨；变糟
 vulnerable|adj.|易受伤的；脆弱的
 subsistence|n.|勉强维持生活|The standard of living at that time was on the edge of subsistence 当时的生活水平出于勉强维生边缘
-exist|v.|存在；生存
 exterminate|v.|消灭；根除|We've made great efforts to exterminate mosquitoes and flies
 tame|v./adj.|驯养；制服/驯服的；乏味的|The tame lions can communicate and dance together with the actors|tame nature 征服大自然
 keeper|n.|看守人；饲养员
